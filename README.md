@@ -8,7 +8,7 @@ This is a notebook I made which records the key points for ELEC3305 USYD (Simpli
 
 3. 此pdf文档可以从下方的链接下载（由于是在GoodNote手写导出的，所以文件较大请见谅）： The notebook could be downloaded from:
 https://drive.google.com/file/d/174QmeyQ-RL4Jf9vkS1gNmPZBFi0QtZfr/view?usp=sharing
-样例：
 
+样例：
 
 ![images](https://github.com/henry0408/screenshots/blob/069516f18b561f6ba7cc3fdfbc4a73c75979c3bc/elec3305screenshot.png)
