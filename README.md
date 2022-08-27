@@ -16,4 +16,4 @@ https://drive.google.com/file/d/174QmeyQ-RL4Jf9vkS1gNmPZBFi0QtZfr/view?usp=shari
 
 样例：
 
-![images](https://github.com/henry0408/screenshots/blob/069516f18b561f6ba7cc3fdfbc4a73c75979c3bc/elec3305screenshot.png)
+![elec3305screenshot](https://user-images.githubusercontent.com/58734009/187032299-596e20d4-a14b-4b4e-b932-103fa9f21166.png)
