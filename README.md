@@ -18,4 +18,4 @@ https://drive.google.com/file/d/174QmeyQ-RL4Jf9vkS1gNmPZBFi0QtZfr/view?usp=shari
 
 ![elec3305screenshot](https://user-images.githubusercontent.com/58734009/187032299-596e20d4-a14b-4b4e-b932-103fa9f21166.png)
 
-elec3305screenshot.png
+![image](https://github.com/henry0408/screenshots/blob/f721705c3cbf30c47d7a6a456a644b1fdd436ab2/elec3305screenshot.png))
