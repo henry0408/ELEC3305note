@@ -17,3 +17,5 @@ https://drive.google.com/file/d/174QmeyQ-RL4Jf9vkS1gNmPZBFi0QtZfr/view?usp=shari
 样例：
 
 ![elec3305screenshot](https://user-images.githubusercontent.com/58734009/187032299-596e20d4-a14b-4b4e-b932-103fa9f21166.png)
+
+elec3305screenshot.png
